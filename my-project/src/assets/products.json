@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Armoire en bois massif",
+        "idimages":0,
+        "pictures": ["devant.png", "derriere.jpeg", "dessus.jpeg"],
+        "description": "loremipsimfo&\"gognubgg\"éubogoéubg\"égbugoébgb\"égbg\"éuibguiéburbub\"ibgou\"égbo\"bgou\"ébgo",
+        "otprice": 20,
+        "type": "furnitures"
+    },
+    {
+        "name": "Armoire en bois massif",
+        "idimages":1,
+        "pictures": ["devant.png", "derriere.jpeg", "dessus.jpeg"],
+        "description": "loremipsimfo&\"gognubgg\"éubogoéubg\"égbugoébgb\"égbg\"éuibguiéburbub\"ibgou\"égbo\"bgou\"ébgo",
+        "otprice": 20,
+        "type": "furnitures"
+    },
+    {
+        "name": "Armoire en bois massif",
+        "idimages":2,
+        "pictures": ["devant.png", "derriere.jpeg", "dessus.jpeg"],
+        "description": "loremipsimfo&\"gognubgg\"éubogoéubg\"égbugoébgb\"égbg\"éuibguiéburbub\"ibgou\"égbo\"bgou\"ébgo",
+        "otprice": 20,
+        "type": "furnitures"
+    },
+    {
+        "name": "Armoire en bois massif",
+        "idimages":3,
+        "pictures": ["devant.png", "derriere.jpeg", "dessus.jpeg"],
+        "description": "loremipsimfo&\"gognubgg\"éubogoéubg\"égbugoébgb\"égbg\"éuibguiéburbub\"ibgou\"égbo\"bgou\"ébgo",
+        "otprice": 20,
+        "type": "furnitures"
+    }
+]
